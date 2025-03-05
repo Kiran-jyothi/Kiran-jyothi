@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Kiran Jyothi!
 
-Welcome to my GitHub profile! I am an experienced **software Engineer** with 2 years of professional expertise. with expertise in Python, .NET, C#, Azure and SQL. Skilled in building and deploying machine learning models, predictive analytics, and cloud-based scalable systems. 
+Welcome to my GitHub profile! I am an experienced **software Engineer** with 2 years of professional expertise with expertise in Python, .NET, C#, Azure and SQL. Skilled in building and deploying machine learning models, predictive analytics, and cloud-based scalable systems. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kiran-jyothi&color=brightgreen)
 
