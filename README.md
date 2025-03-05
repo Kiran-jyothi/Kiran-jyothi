@@ -30,3 +30,24 @@ Welcome to my GitHub profile! I am an experienced **software Engineer** with 2 y
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-jyothi&layout=compact&theme=highcontrast)
 
 ![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kiran-jyothi&theme=highcontrast)
+
+
+## 💼 Work Experience  
+
+### Full Stack .NET Developer | SP Tech Resources (Oct 2024 – Present)  
+- Develop and maintain enterprise-grade applications using C#, .NET Core, ReactJS, and SQL Server.  
+- Design and implement RESTful APIs and microservices with ASP.NET Core and Azure Functions.  
+- Optimize database performance, CI/CD pipelines, and enhance UI/UX experiences.  
+
+### Systems Engineer | Infosys Ltd (Sep 2021 – Aug 2022)  
+- Led data migration projects for energy clients, transferring 10M+ records.  
+- Built and optimized RESTful APIs using Azure Functions and API Management.  
+- Improved SQL Server performance by 30% through query optimization.  
+
+### Software Developer Intern | Kaizen Techno Soft (Aug 2020 – Aug 2021)  
+- Developed full-stack web applications using C#/.NET, React, and SQL.  
+- Integrated Azure DevOps CI/CD pipelines for efficient deployment.  
+- Worked with Agile methodologies, sprint planning, and code reviews.  
+
+📌 **More details on** [LinkedIn](https://www.linkedin.com/in/kiran-jyothi/) | [GitHub](https://github.com/Kiran-jyothi)  
+
