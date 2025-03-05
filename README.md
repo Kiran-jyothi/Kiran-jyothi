@@ -21,3 +21,12 @@ Welcome to my GitHub profile! I am an experienced **software Engineer** with 2 y
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-jyothi/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/Kiran-jyothi) [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:boddulurikiranjyothi985@gmail.com)  
 
 ---
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiran-jyothi&show_icons=true&theme=highcontrast)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-jyothi&layout=compact&theme=highcontrast)
+
+![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kiran-jyothi&theme=highcontrast)
