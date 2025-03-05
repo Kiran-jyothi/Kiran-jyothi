@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hello, I'm Kiran Jyothi!
 
-<!--
-**Kiran-jyothi/Kiran-jyothi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an experienced **software Engineer** with 2 years of professional expertise. with expertise in Python, .NET, C#, Azure and SQL. Skilled in building and deploying machine learning models, predictive analytics, and cloud-based scalable systems. 
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Kiran-jyothi&color=brightgreen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Academic Background
+
+- 🎓 **Master of Science in Computer Science**   
+  *University of North Texas | Aug 2022 - May 2024*  
+- 🎓 **Bachelor of Technology in Computer Science**  
+  *Jawaharlal Nehru Technological University | Jul 2017 - May 2021*  
+
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-jyothi/)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/Kiran-jyothi) [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:boddulurikiranjyothi985@gmail.com)  
+
+---
